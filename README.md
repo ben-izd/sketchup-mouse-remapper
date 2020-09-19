@@ -1,9 +1,10 @@
 # sketchup-mouse-remapper
-Remap Sketchup default keys for orbit &amp; pan with middle mouse button.
+Remap Sketchup default keys for orbit &amp; pan with middle mouse button.  
+Script default keymap mimic 3ds max and works only in sketchup but you can change it easily.
 
-This solution works on **only windows** and **only in Sketchup**.
+This solution works on **only windows**.
 
-|  Action  |  Before (sketchup default)  | After running script |
+|  Action  |  Before (SketchUp default)  | After running script |
 | ------------- | ------------- | ------------- |
 |  Orbit  |  middle mouse  |  alt + middle mouse  |
 |  Pan  |  shift + middle mouse  |  middle mouse  |
