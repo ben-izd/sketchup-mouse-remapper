@@ -9,7 +9,7 @@ This solution works on **only windows** and **only in Sketchup**.
 |  Pan  |  shift + middle mouse  |  middle mouse  |
 
 if you don't want to change the keystrokes or script, just download "3ds_max_keystrokes.exe" file and run it on your windows.  
-After running script (wether .exe or .ahk version) an "H" icon will be added to your taskbar:
+After running script (whether .exe or .ahk version) an "H" icon will be added to your taskbar:
 
 ![Taskbar after running script](https://img.imageupload.net/2020/09/19/2020-09-19_14-43-07.jpg)
 
