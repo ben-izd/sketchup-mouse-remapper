@@ -14,7 +14,7 @@ After running script (whether .exe or .ahk version) an "H" icon will be added to
 
 ![Taskbar after running script](https://img.imageupload.net/2020/09/19/2020-09-19_14-43-07.jpg)
 
-For pausing/existing the script, just right click on "H" icon in taskbar and choose "Pause Script"/"Exit":  
+For pausing/existing the script, just right click on "H" icon in taskbar and choose "Suspend Hotkeys"/"Exit":  
 If you exit the script, you should re-run the file for activating remmaping.
 
 ![Script Options](https://img.imageupload.net/2020/09/19/2020-09-19_14-42-23.jpg)
@@ -28,7 +28,7 @@ For changing the script, first open the script file (".ahk" version) in a text e
 
 - if you want to change the keystroke for orbiting, change last line "!" meaning "Alt" to your taste accroding to the symbols table.
 
-finally save the file and run it.
+Finally exit the current running script, save the file and run it.
 
 ### symbols table:
 |  Symbol  |  keystroke  |
