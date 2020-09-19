@@ -34,4 +34,4 @@ For changing the script, first open the script file (".ahk" version) in a text e
 |  +  |  Shift |
 |  !  |  Alt  |
 
-For more information check [autohotkey documentation ](https://www.autohotkey.com/docs/AutoHotkey.htm).
+For more information check [autohotkey documentation](https://www.autohotkey.com/docs/AutoHotkey.htm).
