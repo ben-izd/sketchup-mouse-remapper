@@ -24,9 +24,11 @@ You'll need [autohotkey](https://www.autohotkey.com/) for running the script.
 
 ## For advance users:
 For changing the script, first open the script file (".ahk" version) in a text editor:
-- If you want to make this keystroke available everywhere not just in sketchup, remove the first line "*if WinExist("ahk_exe SketchUp.exe")*".
+- If you want to make remmaping available everywhere not just in sketchup, remove the first line "*if WinExist("ahk_exe SketchUp.exe")*".
 
-- if you want to change the keystroke for orbiting, change last line "!" to your taste accroding to the symbols table.
+- if you want to change the keystroke for orbiting, change last line "!" meaning "Alt" to your taste accroding to the symbols table.
+
+finally save the file and run it.
 
 ### symbols table:
 |  Symbol  |  keystroke  |
