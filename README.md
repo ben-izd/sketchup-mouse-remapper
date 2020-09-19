@@ -1,5 +1,5 @@
 # sketchup-mouse-remapper
-Remap Sketchup default key for orbit &amp; pan with middle mouse button
+Remap Sketchup default keys for orbit &amp; pan with middle mouse button
 
 This solution works on **only windows** and **only in Sketchup**.
 
